@@ -1,5 +1,5 @@
 ## BERT Pretraining from Scratch
-his project demonstrates the pretraining of BERT (Bidirectional Encoder Representations from Transformers) from scratch using the WikiText English dataset. BERT is a state-of-the-art model that utilizes a Transformer architecture to learn the contextual relationships between words in a text sequence.
+This project demonstrates the pretraining of BERT (Bidirectional Encoder Representations from Transformers) from scratch using the WikiText English dataset. BERT is a state-of-the-art model that utilizes a Transformer architecture to learn the contextual relationships between words in a text sequence.
 
 ### Key Features
 Transformer-based Architecture: BERT leverages the encoder mechanism of the Transformer to understand bidirectional context. 
